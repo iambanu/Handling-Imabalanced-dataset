@@ -1,4 +1,4 @@
-# Handling-Imabalanced-dataset
+# Handling-Imabalanced-dataset Using SMOTE
 
 Hello,
 
