@@ -19,3 +19,5 @@ c. Choose one of these neighbors and place a synthetic point anywhere on the lin
 d. Repeat the steps until data is balanced
 
 SMOTE is implemented in Python using the imblearn library.
+
+
